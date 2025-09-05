@@ -1,0 +1,10 @@
+{
+  "resource_pack_name": "MyResourcePack",
+  "texture_name": "textures/ui/icons",
+  "texture_size": [48, 16],
+  "elements": {
+    "heart_full": { "uv": [0, 0, 16, 16], "size": [16, 16] },
+    "heart_half": { "uv": [16, 0, 16, 16], "size": [16, 16] },
+    "heart_empty": { "uv": [32, 0, 16, 16], "size": [16, 16] }
+  }
+}
