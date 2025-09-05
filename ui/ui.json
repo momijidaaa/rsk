@@ -1,6 +1,6 @@
 {
-  "resource_pack_name": "MyResourcePack",
-  "texture_name": "textures/ui/icons",
+  "resource_pack_name": "rskリソースパック",
+  "texture_name": "textures/ui/icons.png",
   "texture_size": [48, 16],
   "elements": {
     "heart_full": { "uv": [0, 0, 16, 16], "size": [16, 16] },
